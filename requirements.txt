@@ -1,0 +1,7 @@
+nltk
+openai
+pandas
+pinecone
+pinecone_text
+streamlit
+google-generativeai
